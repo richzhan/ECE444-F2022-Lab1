@@ -18,3 +18,6 @@ https://github.com/richzhan/ECE444-F2022-EP<br />
 Activity 7:
 ![Screenshot 2022-09-21 061017](https://user-images.githubusercontent.com/113215877/191478738-2a5af518-1d4e-45ce-98fc-5847eb2d2620.png)
 ![Screenshot 2022-09-21 061315](https://user-images.githubusercontent.com/113215877/191478744-6d7acbcb-c368-4212-a583-7bf444b7637a.png)
+Activity 8:
+![Screenshot 2022-09-21 064929](https://user-images.githubusercontent.com/113215877/191486073-7a1806f0-37e0-4626-9079-d334e88615d8.png)
+![Screenshot 2022-09-21 065103](https://user-images.githubusercontent.com/113215877/191486081-151be00e-c09c-4190-b13b-cde258bfcbee.png)
