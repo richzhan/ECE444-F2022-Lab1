@@ -13,3 +13,5 @@ https://github.com/ronjoethomas/ECE444-F2022-Lab1
 Activity 5:\
 ![Screenshot 2022-09-21 050645](https://user-images.githubusercontent.com/113215877/191465673-88a0eca0-7fed-4fb9-ac65-d1fc1d601404.png)
 ![Screenshot 2022-09-21 050738](https://user-images.githubusercontent.com/113215877/191465705-281f55c2-73dc-4e47-b57f-e794fb087a5a.png)
+Activity 5:\
+https://github.com/richzhan/ECE444-F2022-EP\
