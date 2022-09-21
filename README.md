@@ -3,7 +3,7 @@ Activity 1:
 ![Screenshot at 2022-09-15 09-58-04](https://user-images.githubusercontent.com/113215877/190423477-b564be91-f9ce-4f94-be4d-36fbe5c8633a.png)
 ![Screenshot at 2022-09-15 09-58-43](https://user-images.githubusercontent.com/113215877/190423496-ed2162b7-7bce-4ba9-b90b-739b05845edd.png)
 Activity 2:
-![Screenshot at 2022-09-15 10-19-24](Screenshot at 2022-09-15 10-19-24.png)
+![Screenshot at 2022-09-15 10-19-24](https://user-images.githubusercontent.com/113215877/191466016-953fd14f-f543-4bf2-8e02-03c267d2aa55.png)
 Activity 3:
 ![Activity3_screnshot1](https://user-images.githubusercontent.com/113215877/190438327-5e7afd14-9dc9-4ff9-bd81-2ec8bf653fae.png)
 Activity 4:\
